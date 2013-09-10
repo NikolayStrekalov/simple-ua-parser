@@ -1,0 +1,18 @@
+# Android Firefox
+Mozilla/5.0 (Android; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0
+# Android Firefox
+Mozilla/5.0 (Android; Tablet; rv:13.0) Gecko/13.0 Firefox/13.0
+# Android OperaMobile
+Opera/12.02 (Android 4.1; Linux; Opera Mobi/ADR-1111101157; U; en-US) Presto/2.9.201 Version/12.02
+# Android OperaMini
+Opera/9.80 (Android; Opera Mini/7.29530/27.1407; U; en) Presto/2.8.119 Version/11.10
+# iOS OperaMini
+Opera/9.80 (iPhone; Opera Mini/7.0.4/28.2555; U; fr) Presto/2.8.119 Version/11.10
+# iOS Safari
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3
+# iOS Safari
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+# WindowsPhone IEMobile
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920
+# BlackBerry OperaMini
+Opera/9.80 (BlackBerry; Opera Mini/6.24209/27.1366; U; en) Presto/2.8.119 Version/11.10
